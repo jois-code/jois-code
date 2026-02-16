@@ -20,6 +20,12 @@ I am **Achyuth Jois M**(you can call me **Jois** 😄). I am a student who is pa
 - 🔐 Advanced cybersecurity and secure coding principles.
 - 🧠 Reading books related to Mentalism and Psychology.
 
+## 📊 Stats 
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jois-code&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=jois-code&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jois-code&layout=compact&theme=tokyonight)
+
 ## 📫 Let’s Connect!
 
 <p align="center">
