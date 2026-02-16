@@ -20,11 +20,21 @@ I am **Achyuth Jois M**(you can call me **Jois** 😄). I am a student who is pa
 - 🔐 Advanced cybersecurity and secure coding principles.
 - 🧠 Reading books related to Mentalism and Psychology.
 
-## 📊 Stats 
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jois-code&show_icons=true&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=jois-code&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jois-code&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=jois-code&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/streak?username=jois-code&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jois-code&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jois-code&theme=tokyo-night&hide_border=true"/>
+</p>
+
 
 ## 📫 Let’s Connect!
 
@@ -37,5 +47,5 @@ I am **Achyuth Jois M**(you can call me **Jois** 😄). I am a student who is pa
 <h3 align="center">✨ <i>“Seek God in humans.”</i> ✨</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=achyuthjoism"/>
+  <img src="https://komarev.com/ghpvc/?username=jois-code"/>
 </p>
