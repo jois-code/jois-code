@@ -23,11 +23,7 @@ I am **Achyuth Jois M**(you can call me **Jois** 😄). I am a student who is pa
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=jois-code&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api/streak?username=jois-code&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jois-code&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
